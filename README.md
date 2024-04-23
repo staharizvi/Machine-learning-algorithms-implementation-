@@ -22,7 +22,3 @@ Currently, the repository includes implementations of the following machine lear
 
 Each model is implemented in a modular and easily understandable manner, making it suitable for learning purposes and as a reference for building more complex models.
 
-## Getting Started
-
-To get started, simply clone this repository and explore the implementations of different machine learning models. Each model is contained within its own Python file and can be run independently.
-
